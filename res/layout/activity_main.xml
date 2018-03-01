@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_main_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="天下"
+        android:textColor="#101B1F"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="天下"
+        android:textColor="#101B1F" />
+
+    <Button
+        android:id="@+id/btn_main_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="下一个"
+        android:textColor="#101B1F"
+        android:textSize="18sp" />
+
+</LinearLayout>
